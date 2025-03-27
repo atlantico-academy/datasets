@@ -14,6 +14,6 @@ Lista de conjuntos de dados utilizados no Avanti Bootcamp.
 - `churn`: https://www.kaggle.com/datasets/saurabhbadole/bank-customer-churn-prediction-dataset
 - `orange_quality`: https://www.kaggle.com/datasets/shruthiiiee/orange-quality
 - `heart_disease`: https://www.kaggle.com/datasets/mexwell/heart-disease-dataset
-- `bike-sharing-day`: https://www.kaggle.com/datasets/lakshmi25npathi/bike-sharing-dataset?select=day.csv
+- `bike-sharing-day`: https://www.kaggle.com/datasets/lakshmi25npathi/bike-sharing-dataset
 - `spanish_wines`: https://www.kaggle.com/datasets/fedesoriano/spanish-wine-quality-dataset
 - `cars-90000`: https://www.kaggle.com/datasets/meruvulikith/90000-cars-data-from-1970-to-2024
